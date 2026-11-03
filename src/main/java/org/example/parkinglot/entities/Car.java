@@ -32,4 +32,11 @@ public class Car {
         this.id = id;
     }
 
+    public String getLicensePlate() {
+        return licensePlate;
+    }
+
+    public String getParkingSpot() {
+        return parkingSpot;
+    }
 }
